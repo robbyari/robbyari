@@ -7,7 +7,7 @@
 
 :wave: Hello, I'm an Android Developer who is passionate about creating high-performance apps and great user experiences. I have a strong interest in the kotlin programming language and interface design, and am committed to continuously learning and innovating in the world of Android development.
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">🔥 Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -58,44 +58,52 @@
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Learning Journey</h2>
+<h2 align="left" id="macropower-tech">📚 Learning Journey</h2>
 
-> About my learning journey as a student at dicoding.
+> About my learning journey as a student at Dicoding.
 
 <table>
 <tr>
 <td>
 
 <!-- BLOG-POST-LIST:START -->
-- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
+- [Menjadi Android Developer Expert](https://www.dicoding.com/certificates/6RPNW6RDQP2M)
+- [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/72ZD947DJPYW)
+- [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/certificates/JLX1LMY85X72)
+- [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/N9ZO4NR68ZG5)
+- [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/2VX3YK754PYQ)
+- [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/MRZM4N85RXYQ)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
 <td>
 
 <!-- BLOG-POST-LIST:START -->
-- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
-- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
+- [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/certificates/QLZ9Q6N37Z5D)
+- [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/certificates/MRZMQYKQ0PYQ)
+- [Memulai Pemrograman Dengan Dart](https://www.dicoding.com/certificates/QLZ9Q7KGMZ5D)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
 <td>
 
 <!-- BLOG-POST-LIST:START -->
-- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
+- [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/N9ZO6OKYRXG5)
+- [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/81P23383JXOY)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
 </tr>
 </table>
 
+<h2 align="left" id="macropower-tech">🎯 Top Repositories</h2>
+
+> Tools, languages and other things about my project.
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![notion-portfolio-tracker](https://img.shields.io/static/v1?label=&message=notion-portfolio-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-portfolio-tracker) [![notion-interactive-brokers](https://img.shields.io/static/v1?label=&message=notion-interactive-brokers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-interactive-brokers) [![notion-habit-tracker](https://img.shields.io/static/v1?label=&message=notion-habit-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-habit-tracker) [![hackclubnmit/certificate-generator](https://img.shields.io/static/v1?label=&message=certificate-generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hackclubnmit/certificate-generator) [![todo-cli](https://img.shields.io/static/v1?label=&message=todo-cli&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-cli) [![option-chain-notifier](https://img.shields.io/static/v1?label=&message=option-chain-notifier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/option-chain-notifier) |
+| ![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=3776AB&logo=Kotlin&logoColor=FFFFFF) ![Jetpack Compose](https://img.shields.io/static/v1?label=&message=JetpackCompose&color=4EAA25&logo=jetpackcompose&logoColor=FFFFFF) ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFA116&logo=firebase&logoColor=FFFFFF) ![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=FF5C83&logo=mvvm&logoColor=FFFFFF) ![Midtrans](https://img.shields.io/static/v1?label=&message=PaymentGateway&color=092E20&logo=midtrans&logoColor=FFFFFF) ![Dependency Injection](https://img.shields.io/static/v1?label=&message=DependencyInjection&color=009688&logo=midtrans&logoColor=FFFFFF)| [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
 | [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api) [![tradingview-discord-middleware](https://img.shields.io/static/v1?label=&message=tradingview-discord-middleware&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/tradingview-discord-middleware) |
 | [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![browser-hot-reloading](https://img.shields.io/static/v1?label=&message=browser-hot-reloading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/browser-hot-reloading) [![strategical-trading](https://img.shields.io/static/v1?label=&message=strategical-trading%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/strategical-trading) |
 | [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![todo-list-battle](https://img.shields.io/static/v1?label=&message=todo-list-battle%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-list-battle) |
@@ -106,12 +114,9 @@
 | [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [AR-PiZero — Augmented Reality for IoT](https://medium.datadriveninvestor.com/ar-pizero-augmented-reality-for-iot-1210062198c0?source=rss-cda09a7745f1------2)
+Thanks for visiting my GitHub profile. Let's connect and collaborate to create great things!
 <!-- BLOG-POST-LIST:END -->
-
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
