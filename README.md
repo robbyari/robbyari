@@ -15,53 +15,80 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="48" height="48" alt="Kotlin" />
       </a>
-      <br>Go
+      <br>Kotlin
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" width="48" height="48" alt="Jetpack Compose" />
       </a>
-      <br>Python
+      <br>Compose
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" width="48" height="48" alt="Dart" />
       </a>
-      <br>Jsonnet
+      <br>Dart
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://saigontechnology.com/assets/media/Blog/flutter-what-is-it.webp" width="48" height="48" alt="Flutter" />
       </a>
-      <br>TypeScript
+      <br>Flutter
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="48" height="48" alt="Firebase" />
       </a>
-      <br>Kubernetes
+      <br>Firebase
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" width="48" height="48" alt="Android" />
       </a>
-      <br>Docker
+      <br>Android
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" width="48" height="48" alt="Android Studio" />
       </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <br>Android Studio
     </td>
   </tr>
+</table>
+
+<h2 align="left" id="macropower-tech">Learning Journey</h2>
+
+> About my learning journey as a student at dicoding.
+
+<table>
+<tr>
+<td>
+
+<!-- BLOG-POST-LIST:START -->
+- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
+- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
+<!-- BLOG-POST-LIST:END -->
+
+</td>
+<td>
+
+<!-- BLOG-POST-LIST:START -->
+- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
+- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
+<!-- BLOG-POST-LIST:END -->
+
+</td>
+<td>
+
+<!-- BLOG-POST-LIST:START -->
+- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
+- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
+<!-- BLOG-POST-LIST:END -->
+
+</td>
+</tr>
 </table>
 
 
