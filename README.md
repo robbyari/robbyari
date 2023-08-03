@@ -1,7 +1,7 @@
 # 👨‍💻 Robby Ari Wibowo [@robbyari23](https://www.instagram.com/robbyari23/)
 
 [![GitHub followers](https://img.shields.io/github/followers/robbyari?label=Follow&style=social)](https://github.com/robbyari/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-robbyari23@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:robbyari23@gmail.com)](mailto:robbyari23@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-robbyariw23@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:robbyariw23@gmail.com)](mailto:robbyariw23@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/robby-ari-wibowo-2baaab144/)](https://www.linkedin.com/in/robby-ari-wibowo-2baaab144/)
 
 
