@@ -14,43 +14,43 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="48" height="48" alt="Kotlin" />
       </a>
       <br>Kotlin
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" width="48" height="48" alt="Jetpack Compose" />
       </a>
       <br>Compose
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" width="48" height="48" alt="Dart" />
       </a>
       <br>Dart
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="https://saigontechnology.com/assets/media/Blog/flutter-what-is-it.webp" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a>
         <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" width="48" height="48" alt="Android" />
       </a>
       <br>Android
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" width="48" height="48" alt="Android Studio" />
       </a>
       <br>Android Studio
@@ -103,22 +103,18 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| ![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=3776AB&logo=Kotlin&logoColor=FFFFFF) ![Jetpack Compose](https://img.shields.io/static/v1?label=&message=JetpackCompose&color=4EAA25&logo=jetpackcompose&logoColor=FFFFFF) ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFA116&logo=firebase&logoColor=FFFFFF) ![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=FF5C83&logo=mvvm&logoColor=FFFFFF) ![Midtrans](https://img.shields.io/static/v1?label=&message=PaymentGateway&color=092E20&logo=midtrans&logoColor=FFFFFF) ![Dependency Injection](https://img.shields.io/static/v1?label=&message=DependencyInjection&color=009688&logo=midtrans&logoColor=FFFFFF)| [![Acaraku-Publish](https://img.shields.io/static/v1?label=&message=Acaraku-Publish&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/robbyari/Acaraku-Publish) |
-| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api) [![tradingview-discord-middleware](https://img.shields.io/static/v1?label=&message=tradingview-discord-middleware&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/tradingview-discord-middleware) |
-| [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![browser-hot-reloading](https://img.shields.io/static/v1?label=&message=browser-hot-reloading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/browser-hot-reloading) [![strategical-trading](https://img.shields.io/static/v1?label=&message=strategical-trading%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/strategical-trading) |
-| [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![todo-list-battle](https://img.shields.io/static/v1?label=&message=todo-list-battle%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-list-battle) |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) | [![www](https://img.shields.io/static/v1?label=&message=www&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/www) [![anuragsingh.dev](https://img.shields.io/static/v1?label=&message=anuragsingh.dev&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/anuragsingh.dev) [![unshorts](https://img.shields.io/static/v1?label=&message=unshorts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/unshorts) |
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![speaking-geo-assistant-backend](https://img.shields.io/static/v1?label=&message=speaking-geo-assistant-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/speaking-geo-assistant-backend) [![dietary-care](https://img.shields.io/static/v1?label=&message=dietary-care&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dietary-care) |
-| [![Problem solving](https://img.shields.io/static/v1?label=&message=Problem%20solving&color=FFA116&logo=LeetCode&logoColor=FFFFFF)](https://hackattic.com/u/ashleymavericks) | [![leetcoding](https://img.shields.io/static/v1?label=&message=leetcoding&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/leetcoding) [![hackerrank](https://img.shields.io/static/v1?label=&message=hackerrank&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/hackerrank) [![hackattic](https://img.shields.io/static/v1?label=&message=hackattic&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/hackattic) [![kata-log](https://img.shields.io/static/v1?label=&message=kata-log&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/kata-log) [![sadservers](https://img.shields.io/static/v1?label=&message=sadservers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/sadservers) [![code.golf](https://img.shields.io/static/v1?label=&message=code.golf&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/code.golf) [![system-design](https://img.shields.io/static/v1?label=&message=system-design&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/system-design) |
-| [![Spark AR](https://img.shields.io/static/v1?label=&message=Spark%20AR&color=FF5C83&logo=Spark%20AR&logoColor=FFFFFF)](https://sparkar.facebook.com/ar-studio/) | [![AR-PiZero](https://img.shields.io/static/v1?label=&message=AR-PiZero&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/AR-PiZero) |
-| [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
+| ![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=3776AB&logo=Kotlin&logoColor=FFFFFF) ![Jetpack Compose](https://img.shields.io/static/v1?label=&message=JetpackCompose&color=4EAA25&logo=jetpackcompose&logoColor=FFFFFF) ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFA116&logo=firebase&logoColor=FFFFFF) ![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=FF5C83&logo=mvvm&logoColor=FFFFFF) ![Midtrans](https://img.shields.io/static/v1?label=&message=PaymentGateway&color=092E20&logo=midtrans&logoColor=FFFFFF) ![Dependency Injection](https://img.shields.io/static/v1?label=&message=DependencyInjection&color=009688&logo=midtrans&logoColor=FFFFFF)| [![Acaraku-Publish](https://img.shields.io/static/v1?label=&message=Acaraku-Publish&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/robbyari/Acaraku-Publish) [![Play Store](https://img.shields.io/static/v1?label=&message=Acaraku&color=000605&logo=GooglePlay&logoColor=FFFFFF&labelColor=000605)](https://play.google.com/store/apps/details?id=com.robbyari.acaraku) |
+| ![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=3776AB&logo=Kotlin&logoColor=FFFFFF) ![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=FF5C83&logo=mvvm&logoColor=FFFFFF) ![Clean Architecture](https://img.shields.io/static/v1?label=&message=CleanArchitecture&color=FFA116&logo=cleanarchitecture&logoColor=FFFFFF) ![Xml](https://img.shields.io/static/v1?label=&message=Xml&color=3776AB&logo=xml&logoColor=FFFFFF) ![Dependency Injection](https://img.shields.io/static/v1?label=&message=DependencyInjection&color=009688&logo=midtrans&logoColor=FFFFFF) ![Modularization](https://img.shields.io/static/v1?label=&message=Modularization&color=4EAA25&logo=modularization&logoColor=FFFFFF) ![Room](https://img.shields.io/static/v1?label=&message=Room&color=FFA116&logo=room&logoColor=FFFFFF) ![Retrofit](https://img.shields.io/static/v1?label=&message=Retrofit&color=092E20&logo=retrofit&logoColor=FFFFFF) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=Football-Livescore&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/robbyari/FootballLivescore) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 <!-- BLOG-POST-LIST:START -->
+<br>
 Thanks for visiting my GitHub profile. Let's connect and collaborate to create great things!
 <!-- BLOG-POST-LIST:END -->
 
+
 <div>
+  <br>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
